@@ -1,2 +1,2 @@
-# Two tear insfrastructure with modules
+# AWS instance with modules
 Two Tear infrastructure with Terraform modules
